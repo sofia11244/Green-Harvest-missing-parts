@@ -1,0 +1,22 @@
+@media screen and (min-width:768px) {
+    .discount{
+        padding: 100px 16px 100px 16px;
+        gap: 10px;
+        display: flex;
+        background-color: rgba(251, 251, 251, 1); 
+    } 
+    .discount-alt{
+        font-size: 64px;
+        font-weight: 600;
+        line-height: 70px;
+        letter-spacing: -0.015em;    
+    } 
+    .discount-alt-span{
+        font-size: 64px;
+        font-weight: 600;
+        line-height: 70px;
+        letter-spacing: -0.015em;
+        width: 736px;
+        height: 86px;
+    }
+}
