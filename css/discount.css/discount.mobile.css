@@ -10,12 +10,14 @@
             font-weight: 600;
             line-height: 50px;
             letter-spacing: -0.015em;
+            text-align: left;
     } 
     .discount-alt-span{
             background-color: rgba(87, 111, 53, 1);
             color: rgba(251, 251, 251, 1);
             border-radius: 12px;
             display: inline-block;
+            text-align: left;
     }
     
 }
